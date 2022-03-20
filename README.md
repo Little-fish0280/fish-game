@@ -1,1 +1,4 @@
 # fish-game
+
+### installation
+yarn
